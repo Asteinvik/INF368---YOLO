@@ -2,6 +2,7 @@
 
 Assignment in INF368
 
+read report.pdf for explanation
 Code borrowed from:
 
 [https://github.com/ketil-malde/image-sim-modified]
